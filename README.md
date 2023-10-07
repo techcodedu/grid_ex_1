@@ -49,3 +49,4 @@ Practice using the Bootstrap grid system by creating a responsive login form ins
 ### Expected Outcome:
 A centered card on medium and large screens, with a full-width card on smaller screens. The login form should contain fields for the username and password and a submit button.
 
+![Login Form Screenshot](https://github.com/techcodedu/grid_ex_1/blob/main/login.PNG)
